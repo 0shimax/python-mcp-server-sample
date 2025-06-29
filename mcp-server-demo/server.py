@@ -16,3 +16,7 @@ if __name__ == "__main__":
     # stdioトランスポートを使用
     print("Starting MCP server in stdio mode")
     mcp.run(transport="stdio")
+
+
+
+
